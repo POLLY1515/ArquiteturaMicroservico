@@ -1,0 +1,5 @@
+package io.poliana.produtos.model;
+
+public class Produto {
+
+}
